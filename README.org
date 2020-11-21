@@ -1,0 +1,82 @@
+Este repositório contém informações sobre a disciplina de Programação
+Funcional, ministrada no campus da UFC em Crateús, no semestre 2020.2.
+
+As issues deste repositório podem ser utilizadas para discussão sobre
+o conteúdo da disciplina.
+
+* Cronograma
+
+  Abaixo estão listadas as aulas e seus conteúdos. Teremos live toda
+  terça, no horário de 15:00-17:00, pelo Google Meet.
+
+  As aulas estarão disponíveis em https://www.youtube.com/user/luizalbertocviana.
+
+| Data             |     Aula | Descrição                                         |
+|------------------+----------+---------------------------------------------------|
+| [2020-12-01 Tue] |       01 | Introdução e motivação; as ferramentas de Haskell |
+| [2020-12-03 Thu] |       02 | listas: definição e funções                       |
+| [2020-12-08 Tue] |       03 | Listas: funções                                   |
+| [2020-12-10 Thu] |       04 | Abstrações de loop                                |
+| [2020-12-15 Tue] |       05 | Laboratório 1                                     |
+| [2020-12-17 Thu] |       06 | Tipos para o tratamento de erros                  |
+| [2020-12-22 Tue] |       07 | Laboratório 2                                     |
+| [2020-12-24 Thu] |  Recesso |                                                   |
+| [2020-12-29 Tue] |  Recesso |                                                   |
+| [2020-12-31 Thu] |  Recesso |                                                   |
+| [2021-01-05 Tue] |  Recesso |                                                   |
+| [2021-01-07 Thu] |       08 | Valores disjuntivos                               |
+| [2021-01-12 Tue] |       09 | Laboratório 3                                     |
+| [2021-01-14 Thu] |       10 | Árvores Binárias de busca                         |
+| [2021-01-19 Tue] |       11 | Laboratório 4                                     |
+| [2021-01-21 Thu] |       12 | Representação eficiente de sequências             |
+| [2021-01-26 Tue] |       13 | Laboratório 5                                     |
+| [2021-01-28 Thu] |       14 | Uma implementação de grafo                        |
+| [2021-02-02 Tue] |       15 | Laboratório 6                                     |
+| [2021-02-04 Thu] |       16 | Filas de prioridade                               |
+| [2021-02-09 Tue] |       17 | Laboratório 7                                     |
+| [2021-02-11 Thu] |       18 | CLasses                                           |
+| [2021-02-16 Tue] | Carnaval |                                                   |
+| [2021-02-18 Thu] |       19 | Laboratório 8                                     |
+| [2021-02-23 Tue] |       20 | Functor, Applicative e Alternative                |
+| [2021-02-25 Thu] |       21 | Functor, Applicative e Alternative                |
+| [2021-03-02 Tue] |       22 | Laboratório 9                                     |
+| [2021-03-04 Thu] |       23 | Operador de ponto fixo e Programação Dinâmica     |
+| [2021-03-09 Tue] |      FIT |                                                   |
+| [2021-03-11 Thu] |       EU |                                                   |
+| [2021-03-16 Tue] |       24 | Operador de ponto fixo e Programação Dinâmica     |
+| [2021-03-18 Thu] |       25 | Laboratório 10                                    |
+| [2021-03-23 Tue] |       26 | Mônadas                                           |
+| [2021-03-25 Thu] |  Feriado |                                                   |
+| [2021-03-30 Tue] |       27 | Laboratório 11                                    |
+| [2021-04-01 Thu] |  Feriado |                                                   |
+| [2021-04-06 Tue] |       28 | Avaliação estrita e paralelismo                   |
+| [2021-04-08 Thu] |       29 | Laboratório 12                                    |
+| [2021-04-13 Tue] |       AF |                                                   |
+| [2021-04-15 Thu] |       AF |                                                   |
+
+* Entregas
+
+  A avaliação consistirá de doze entregas obrigatórias e duas entregas
+  opcionais, pela plataforma Github Classroom. A cada entrega, será
+  atribuida uma nota de 0 a 10. A Média Parcial será a média simples
+  das notas das entregas obrigatórias, acrescida da nota de cada
+  entrega opcional multiplicada por 0,05. A Avaliação Final também
+  consistirá de uma entrega, e a Média Final será a média simples
+  entre a Média Parcial e a nota da Avaliação Final.
+
+| Descrição      | Data             | Caráter     |
+|----------------+------------------+-------------|
+| Laboratório 01 | [2020-12-22 Tue] | Obrigatório |
+| Laboratório 02 | [2021-01-07 qui] | Obrigatório |
+| Laboratório 03 | [2021-01-19 Tue] | Obrigatório |
+| Laboratório 04 | [2021-01-26 Tue] | Obrigatório |
+| Laboratório 05 | [2021-02-02 Tue] | Obrigatório |
+| Laboratório 06 | [2021-02-09 Tue] | Obrigatório |
+| Laboratório 07 | [2021-02-16 Tue] | Obrigatório |
+| Laboratório 08 | [2021-02-25 Thu] | Obrigatório |
+| Laboratório 09 | [2021-03-09 Tue] | Obrigatório |
+| Laboratório 10 | [2021-03-25 Thu] | Obrigatório |
+| Laboratório 11 | [2021-04-06 Tue] | Obrigatório |
+| Laboratório 12 | [2021-04-11 dom] | Obrigatório |
+| Trabalho 01    | [2021-04-08 Thu] | Opcional    |
+| Trabalho 02    | [2021-04-08 Thu] | Opcional    |
